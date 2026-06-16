@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "routes": [
     { "src": "/", "dest": "/index.html" }
   ]
 }
+=======
+{
+  "version": 2,
+  "routes": [
+    { "src": "/", "dest": "/index.html" }
+  ]
+}
+>>>>>>> bf34e808842e372eafb09a501cf4ccf02c1d7a54
